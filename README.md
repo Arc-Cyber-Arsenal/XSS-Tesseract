@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arc-Cyber-Arsenal/XSS-Tesseract/master/xss-tesseract.png" alt="403-Killchain Banner" width="600">
+  <img src="https://raw.githubusercontent.com/Arc-Cyber-Arsenal/XSS-Tesseract/master/xss.png" alt="403-Killchain Banner" width="600">
 </p>
 
 
